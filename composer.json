@@ -1,0 +1,7 @@
+{
+    "name": "phpxmlrpc/schemas",
+    "description": "A collection of extensions, addons and other stuff that might be of use for development of xml-rpc (and jsonrpc, soap) based applications",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/gggeek/xmlrpc-schemas",
+    "keywords": [ "xmlrpc", "webservices" ]
+}
