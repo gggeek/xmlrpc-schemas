@@ -54,6 +54,17 @@ widespread usage in webservices toolkits. This leaves us with almost-but-not-qui
 - xmlrpc.wsdl: a XML Schema Definition attempting to describe XMLRPC method calls and responses
 - xmlrpc.xsd: a XML Schema Definition attempting to describe XMLRPC
 
+## Other IDLs
+
+### XRDL
+
+Originally hosted at https://code.google.com/archive/p/xrdl/, the project seems to have been dormant for some time.
+There are forks on GitHub, such as https://github.com/mumitr0ll/xrdl, which also seem not very actively maintained.
+
+### system.describeMethods
+
+The specification is available at https://xmlrpc-epi.sourceforge.net/specs/rfc.system.describeMethods.php.
+To the best of my knowledge, it was never implemented outside the xmlrpc-epi C library.
 
 [![License](https://poser.pugx.org/phpxmlrpc/schemas/license)](https://packagist.org/packages/phpxmlrpc/schemas)
 [![Total Downloads](https://poser.pugx.org/phpxmlrpc/schemas/downloads)](https://packagist.org/packages/phpxmlrpc/schemas)
