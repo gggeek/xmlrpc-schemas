@@ -66,5 +66,14 @@ There are forks on GitHub, such as https://github.com/mumitr0ll/xrdl, which also
 The specification is available at https://xmlrpc-epi.sourceforge.net/specs/rfc.system.describeMethods.php.
 To the best of my knowledge, it was never implemented outside the xmlrpc-epi C library.
 
+## Other resources
+
+### Converting XML-RPC to SOAP
+
+An XSLT file is available at http://web.archive.org/web/20010611155715/http://soap.develop.com/xmlrpc/fromxr.xsl
+
+A guide on how to achieve interoperability with SOAP (letting SOAP clients send requests to XML-RPC servers) can
+be found at https://www.xml.com/pub/a/ws/2002/12/18/endpoints.html
+
 [![License](https://poser.pugx.org/phpxmlrpc/schemas/license)](https://packagist.org/packages/phpxmlrpc/schemas)
 [![Total Downloads](https://poser.pugx.org/phpxmlrpc/schemas/downloads)](https://packagist.org/packages/phpxmlrpc/schemas)
